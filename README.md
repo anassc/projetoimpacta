@@ -1,2 +1,0 @@
-# projetoBi
-Projeto BI
